@@ -18,34 +18,6 @@
 
 ---
 
-## ⟡ Sobre mim
-
-```yaml
-nome: Eloísa Mendes
-idade: 16
-
-interesses:
-  - 📚 Livros
-  - 🎵 Música
-  - 🎬 Séries
-  - 💻 Desenvolvimento Web
-  - 🤖 Inteligência Artificial
-  - 🎨 Design
-
-atualmente:
-  - Estudando
-  - Criando projetos
-  - Aprendendo novas tecnologias
-```
-
-. ݁₊ ⊹ . ݁ ⟡
-
-Gosto de aprender, criar e explorar novas possibilidades através da tecnologia. Este espaço reúne projetos, experiências e aprendizados que fazem parte da minha trajetória.
-
-. ݁₊ ⊹ . ݁ ⟡
-
----
-
 ## ⟡ Tecnologias
 
 <div align="center">
@@ -67,18 +39,6 @@ Gosto de aprender, criar e explorar novas possibilidades através da tecnologia.
 </div>
 
 ---
-
-## ⟡ Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=00000000&color=F5B7D2&line=BB9AF7"/>
-
-</div>
-
----
-
-<div align="center">
 
 ### ♡ Obrigada pela visita ♡
 
