@@ -24,11 +24,3 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,github" />
 
 </div>
-
----
-
-### ♡ Obrigada pela visita ♡
-
-. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-
-</div>
