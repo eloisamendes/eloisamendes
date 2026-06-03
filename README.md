@@ -19,4 +19,4 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,github" />
 
-</div> ele ta siim agora, mas euq uero A FRSE COLORIDA E ADICIOAN 𓆝 𓆟 𓆞 𓆝 𓆟 embaxio do nome
+</div> 
