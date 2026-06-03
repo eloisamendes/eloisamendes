@@ -31,6 +31,4 @@
 
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ffb6d9&style=flat-square"/>
-
 </div>
