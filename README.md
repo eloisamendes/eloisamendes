@@ -1,57 +1,52 @@
 <div align="center">
 
-<img src="https://media.tenor.com/8PTF5B7n0rAAAAAC/anime-night.gif" width="100%">
+<img src="https://media.tenor.com/6ZUs587mM7AAAAAC/stars-night.gif" width="100%">
 
-# Eloísa Mendes
+# ✦ Eloísa Mendes ✦
 
 ### . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
-`16 years old` · `Brazil 🇧🇷`
+`16 anos` ♡ `Brasil`
 
 > Entre livros, músicas, séries e linhas de código.
 
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day;Building+ideas+into+reality;Exploring+technology+with+curiosity" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1000&color=F5B7D2&center=true&vCenter=true&width=500&lines=Aprendendo+algo+novo+a+cada+dia;Transformando+ideias+em+projetos;Explorando+o+mundo+da+tecnologia" />
 
 </div>
 
 ---
 
-## ⟡ About Me
+## ⟡ Sobre mim
 
 ```yaml
-name: Eloísa Mendes
-age: 16
+nome: Eloísa Mendes
+idade: 16
 
-interests:
-  - 📚 Books
-  - 🎵 Music
-  - 🎬 Series
-  - 💻 Web Development
-  - 🤖 Artificial Intelligence
+interesses:
+  - 📚 Livros
+  - 🎵 Música
+  - 🎬 Séries
+  - 💻 Desenvolvimento Web
+  - 🤖 Inteligência Artificial
   - 🎨 Design
 
-currently:
-  - Learning
-  - Building
-  - Exploring
+atualmente:
+  - Estudando
+  - Criando projetos
+  - Aprendendo novas tecnologias
 ```
 
 . ݁₊ ⊹ . ݁ ⟡
 
-A tecnologia é uma das minhas formas favoritas de transformar ideias em algo real.
-Este perfil reúne projetos, estudos e experiências que fazem parte da minha jornada como desenvolvedora.
+Gosto de aprender, criar e explorar novas possibilidades através da tecnologia. Este espaço reúne projetos, experiências e aprendizados que fazem parte da minha trajetória.
 
 . ݁₊ ⊹ . ݁ ⟡
 
 ---
 
-## ⟡ Technologies
+## ⟡ Tecnologias
 
 <div align="center">
 
@@ -61,35 +56,23 @@ Este perfil reúne projetos, estudos e experiências que fazem parte da minha jo
 
 ---
 
-## ⟡ GitHub Stats
+## ⟡ Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5B7D2&icon_color=F5B7D2&text_color=C0CAF5&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=F5B7D2&text_color=C0CAF5&bg_color=00000000"/>
 
 </div>
 
 ---
 
-## ⟡ Activity
+## ⟡ Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-## ⟡ Connect
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1a1b26"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=00000000&color=F5B7D2&line=BB9AF7"/>
 
 </div>
 
@@ -97,8 +80,10 @@ Este perfil reúne projetos, estudos e experiências que fazem parte da minha jo
 
 <div align="center">
 
-### . ݁₊ ⊹ . ݁ ⟡ obrigada pela visita ⟡ ݁ . ⊹ ₊ ݁.
+### ♡ Obrigada pela visita ♡
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=bb9af7&style=flat-square"/>
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ffb6d9&style=flat-square"/>
 
 </div>
