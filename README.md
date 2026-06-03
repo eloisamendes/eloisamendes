@@ -8,8 +8,6 @@
 
 `16 anos` ♡ `Brasil`
 
-> Entre livros, músicas, séries e linhas de código.
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=2000&color=F472B6&center=true&vCenter=true&width=650&lines=Deixe+viver%2C+deixe+ficar%2C+deixe+estar+como+est%C3%A1." />
