@@ -12,8 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1000&color=F5B7D2&center=true&vCenter=true&width=500&lines=Aprendendo+algo+novo+a+cada+dia;Transformando+ideias+em+projetos;Explorando+o+mundo+da+tecnologia" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=2000&color=F472B6&center=true&vCenter=true&width=650&lines=Deixe+viver%2C+deixe+ficar%2C+deixe+estar+como+est%C3%A1." />
 </div>
 
 ---
