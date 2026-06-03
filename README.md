@@ -27,18 +27,6 @@
 
 ---
 
-## ⟡ Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5B7D2&icon_color=F5B7D2&text_color=C0CAF5&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=F5B7D2&text_color=C0CAF5&bg_color=00000000"/>
-
-</div>
-
----
-
 ### ♡ Obrigada pela visita ♡
 
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
