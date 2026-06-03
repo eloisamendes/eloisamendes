@@ -1,16 +1,23 @@
-## Hi there 👋
+# Eloísa Mendes
 
-<!--
-**eloisamendes/eloisamendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
-Here are some ideas to get you started:
+16 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de aprender, criar e transformar ideias em algo real através da tecnologia. Este espaço reúne projetos, estudos e experiências que fazem parte da minha jornada como desenvolvedora.
+
+. ݁₊ ⊹ . ݁ ⟡ Interesses
+
+• Livros
+• Música
+• Séries
+• Desenvolvimento Web
+• Inteligência Artificial
+• Design
+• Programação
+
+. ݁₊ ⊹ . ݁ ⟡ Atualmente
+
+Explorando novas tecnologias, aprimorando minhas habilidades e construindo projetos que refletem minha evolução constante.
+
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
