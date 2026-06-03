@@ -13,7 +13,7 @@
 
 ---
 
-## ʚଓ Tecnologias
+##  ๋࣭ ⚡︎⭑ Tecnologias
 
 <div align="center">
 
